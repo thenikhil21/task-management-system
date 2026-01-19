@@ -1,2 +1,1 @@
-# task-management-system
-Scalable task management system using Spring boot
+Initial project setup completed
